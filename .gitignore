@@ -1,8 +1,0 @@
-# Ignore compiled Java byte code
-*.class
-
-# Ignore IDE & System files
-.idea/
-.vscode/
-*.log
-.DS_Store
